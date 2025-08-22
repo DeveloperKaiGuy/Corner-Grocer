@@ -1,0 +1,3 @@
+C:/Users/MALUS/Documents/Visual Studio 2022 Preview/Repos/Workspace/cmake-build-debug/CMakeFiles/Workspace.dir
+C:/Users/MALUS/Documents/Visual Studio 2022 Preview/Repos/Workspace/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/MALUS/Documents/Visual Studio 2022 Preview/Repos/Workspace/cmake-build-debug/CMakeFiles/rebuild_cache.dir
